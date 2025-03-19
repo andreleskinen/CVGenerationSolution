@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "+nmKiRabPMFdnHlFXI6ciUNs8CptITXgc/hqMeuRLqc=",
+  "Source": "CVGenerationSolution",
+  "BasePath": "_content/CVGenerationSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CVGenerationSolution/wwwroot",
+      "Source": "CVGenerationSolution",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/9nzrcaremc-98wrxop1ft.gz",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "template#[.{fingerprint=98wrxop1ft}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3fbz5pxwn8",
+      "Integrity": "j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/nik1wlxtcq-5ipweew5fc.gz",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "savedContent#[.{fingerprint=5ipweew5fc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ugqkxfv3k8-25ryyje0xb.gz",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "data#[.{fingerprint=25ryyje0xb}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "78ti7dxoyv",
+      "Integrity": "dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "data#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "25ryyje0xb",
+      "Integrity": "GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data.json"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "savedContent#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/savedContent.html"
+    },
+    {
+      "Identity": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html",
+      "SourceId": "CVGenerationSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/",
+      "BasePath": "_content/CVGenerationSolution",
+      "RelativePath": "template#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "98wrxop1ft",
+      "Integrity": "6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/template.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "data.25ryyje0xb.json",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ugqkxfv3k8-25ryyje0xb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25ryyje0xb"
+        },
+        {
+          "Name": "label",
+          "Value": "data.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0="
+        }
+      ]
+    },
+    {
+      "Route": "data.25ryyje0xb.json",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25ryyje0xb"
+        },
+        {
+          "Name": "label",
+          "Value": "data.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0="
+        }
+      ]
+    },
+    {
+      "Route": "data.25ryyje0xb.json.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ugqkxfv3k8-25ryyje0xb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25ryyje0xb"
+        },
+        {
+          "Name": "label",
+          "Value": "data.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY="
+        }
+      ]
+    },
+    {
+      "Route": "data.json",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ugqkxfv3k8-25ryyje0xb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0="
+        }
+      ]
+    },
+    {
+      "Route": "data.json",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtRVV4mYgiXG69ZV/Hru5fUQAO9OpRHYs0XweteVTb0="
+        }
+      ]
+    },
+    {
+      "Route": "data.json.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/ugqkxfv3k8-25ryyje0xb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dy+QkKe7c1lpKtiMVRyJwSprCKZ4ctaWn7Vs71La4DY="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.5ipweew5fc.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/nik1wlxtcq-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "savedContent.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.5ipweew5fc.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "savedContent.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.5ipweew5fc.html.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/nik1wlxtcq-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "savedContent.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/nik1wlxtcq-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "savedContent.html.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/nik1wlxtcq-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 11:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "template.98wrxop1ft.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/9nzrcaremc-98wrxop1ft.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001095290252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "98wrxop1ft"
+        },
+        {
+          "Name": "label",
+          "Value": "template.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk="
+        }
+      ]
+    },
+    {
+      "Route": "template.98wrxop1ft.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "98wrxop1ft"
+        },
+        {
+          "Name": "label",
+          "Value": "template.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk="
+        }
+      ]
+    },
+    {
+      "Route": "template.98wrxop1ft.html.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/9nzrcaremc-98wrxop1ft.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "98wrxop1ft"
+        },
+        {
+          "Name": "label",
+          "Value": "template.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo="
+        }
+      ]
+    },
+    {
+      "Route": "template.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/9nzrcaremc-98wrxop1ft.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001095290252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk="
+        }
+      ]
+    },
+    {
+      "Route": "template.html",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6czqHeW82ANNqx0OSWAXfMZDwI8jODAlRPRdjlW+0Gk="
+        }
+      ]
+    },
+    {
+      "Route": "template.html.gz",
+      "AssetFile": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/compressed/9nzrcaremc-98wrxop1ft.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 19:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j12jv6mTkacweXdsVDXl9mPazdUjPtgqDXUC4JlXWKo="
+        }
+      ]
+    }
+  ]
+}
